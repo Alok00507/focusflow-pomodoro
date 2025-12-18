@@ -11,5 +11,4 @@ A simple and clean Pomodoro Timer built using:
 - Task list
 - Daily stats
 
-## Live Demo
-👉 https://your-username.github.io/focusflow-pomodoro/
+
